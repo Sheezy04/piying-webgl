@@ -1,0 +1,93 @@
+{
+  "version": "1.1.0",
+  "releaseId": "2026-10-11-v1.1.0",
+  "unity": "2022.3.62f3c1",
+  "builtAt": "2026-10-11T13:36:40.3670565Z",
+  "files": [
+    {
+      "path": "Build/index.html.data.unityweb",
+      "bytes": 17537700,
+      "sha256": "fadd94c6eb6f29e183889de09577218fb567198dad9372604ffd36d78c2f5d4e"
+    },
+    {
+      "path": "Build/index.html.framework.js.unityweb",
+      "bytes": 73490,
+      "sha256": "492e17c4163986f8c957445bfdd362f4b8946252b5289c8a34d5d71a21e2ba5a"
+    },
+    {
+      "path": "Build/index.html.loader.js",
+      "bytes": 44292,
+      "sha256": "d7a3ee7acf704a81c53418d29e8d58d9b34f9674e01c1bdb44bcbdf6406d7bfa"
+    },
+    {
+      "path": "Build/index.html.wasm.unityweb",
+      "bytes": 5072599,
+      "sha256": "8b846665d73d0e8443f335063ea9abade8ded31b24b0e1071f0c4cbe0d0be1ed"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5458,
+      "sha256": "f6748fb5c96ce489df86a4011dccfe9f028e74c5215fef682a3832a418c85f5b"
+    },
+    {
+      "path": "TemplateData/favicon.ico",
+      "bytes": 2305,
+      "sha256": "9c13beb90ee8f70580d52a21d5233970d1c89e71e4a34a462c22610941c3c77f"
+    },
+    {
+      "path": "TemplateData/fullscreen-button.png",
+      "bytes": 175,
+      "sha256": "21221581673a54b8139d408d4a3f8d2b879e86827d4b6fc53b995ff7a99ee3e9"
+    },
+    {
+      "path": "TemplateData/MemoryProfiler.png",
+      "bytes": 665,
+      "sha256": "0ce87be20d0c24ab6cb73b57de2004da261cc2a641e69319c6ae3fe11fc85483"
+    },
+    {
+      "path": "TemplateData/progress-bar-empty-dark.png",
+      "bytes": 96,
+      "sha256": "bbee7131afe8a3365906240d89184dc86234c119467f390bc4bc6802328fdb4d"
+    },
+    {
+      "path": "TemplateData/progress-bar-empty-light.png",
+      "bytes": 109,
+      "sha256": "143696c060ad43d6c30f19ff5f49000927a139a2a1e4c9f45fafaa2b90d7d2be"
+    },
+    {
+      "path": "TemplateData/progress-bar-full-dark.png",
+      "bytes": 74,
+      "sha256": "3306a6244dcb3926fca38a28e3ced589df8ff1beed955eb17c0bbf01c918bc62"
+    },
+    {
+      "path": "TemplateData/progress-bar-full-light.png",
+      "bytes": 84,
+      "sha256": "12395ea785480c5cdf12fade6e6cbf49666d5bb1cef7240c113dbcba6bdc5c87"
+    },
+    {
+      "path": "TemplateData/style.css",
+      "bytes": 1757,
+      "sha256": "e3453f27806342b6ff394faaf6c57980f193d0c3d5d36596febce6f8b60302ec"
+    },
+    {
+      "path": "TemplateData/unity-logo-dark.png",
+      "bytes": 3042,
+      "sha256": "c1b72d26c096487dabc948b54bc203f8dac7ed4e3f5733918798e858acb4b159"
+    },
+    {
+      "path": "TemplateData/unity-logo-light.png",
+      "bytes": 3077,
+      "sha256": "002990aea0d946833cadc1519d5b7e50a4570bd537a0517dd79a59d3eec84da7"
+    },
+    {
+      "path": "TemplateData/webgl-logo.png",
+      "bytes": 2947,
+      "sha256": "b30c3af2a4538c6edf5f2411953760641dfa257f2a4cc5b88d671aa243b1f12f"
+    },
+    {
+      "path": "TemplateData/webmemd-icon.png",
+      "bytes": 1670,
+      "sha256": "c56f5494640cedda273aad38d58e6ab9da625d5b3f4d875c0ff92c6192a569c2"
+    }
+  ]
+}

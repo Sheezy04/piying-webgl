@@ -20,7 +20,7 @@
       <div id="unity-footer">
         <div id="unity-webgl-logo"></div>
         <div id="unity-fullscreen-button"></div>
-        <div id="unity-build-title">皮影新生</div>
+        <div id="unity-build-title">皮影新生 · v1.1.0</div>
       </div>
     </div>
     <script>
@@ -65,7 +65,7 @@
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
         productName: "皮影新生",
-        productVersion: "1.0",
+        productVersion: "1.1.0",
         showBanner: unityShowBanner,
       };
 
@@ -103,8 +103,8 @@
       } else {
         // Desktop style: Render the game canvas in a window that can be maximized to fullscreen:
 
-        canvas.style.width = "960px";
-        canvas.style.height = "600px";
+        canvas.style.width = "100%";
+        canvas.style.height = "calc(100% - 38px)";
       }
 
       loadingBar.style.display = "block";
