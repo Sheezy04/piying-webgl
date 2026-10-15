@@ -1,18 +1,18 @@
 {
-  "version": "1.2.2",
-  "releaseId": "2026-10-15-v1.2.2",
+  "version": "1.2.3",
+  "releaseId": "2026-10-16-v1.2.3",
   "unity": "2022.3.62f3c1",
-  "builtAt": "2026-10-15T13:57:17.2602282Z",
+  "builtAt": "2026-10-15T16:49:17.2446298Z",
   "files": [
     {
       "path": "Build/index.html.data.unityweb",
-      "bytes": 19819366,
-      "sha256": "68ecdf899a57e91296a3b9e3c2dc38e75a7a9573ca430a9f1923ce17f6c08e0c"
+      "bytes": 19838485,
+      "sha256": "cf90f9223646fc7fdf7500f8b3ef2c573541178660b5993fb39f0b7a59b741d3"
     },
     {
       "path": "Build/index.html.framework.js.unityweb",
-      "bytes": 73449,
-      "sha256": "f7b2477340ecb51ebf12ad124ad82ea4a994ee704ef13bfbf8d194f51a91a62d"
+      "bytes": 73452,
+      "sha256": "b18d699aadcdac3617ac5a459e72af05555a055e682afd4246725dbb9f651d90"
     },
     {
       "path": "Build/index.html.loader.js",
@@ -21,13 +21,13 @@
     },
     {
       "path": "Build/index.html.wasm.unityweb",
-      "bytes": 5095872,
-      "sha256": "c03cedd1870ed0497fb9f5a59be0cdbcdfb29aebcddfd9f7fa9c97203c114f37"
+      "bytes": 5098291,
+      "sha256": "d415c8b093a6a6648da12830cc7d6884cf7f4f04795348a82b2627d9ede0add6"
     },
     {
       "path": "index.html",
       "bytes": 5562,
-      "sha256": "517e8b95b2ca32c1fcc9c360952e3e322f000ac69342b31650ec2e867b652285"
+      "sha256": "059b74dfd5e257e8758a198db4d78ff42115113b28c66f8aca9225d02d44ea76"
     },
     {
       "path": "TemplateData/favicon.ico",
